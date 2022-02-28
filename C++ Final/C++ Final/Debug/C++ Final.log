@@ -1,0 +1,4 @@
+﻿  C++ Final.cpp
+C:\Users\Juhanah\source\repos\C++ Final\C++ Final\C++ Final.cpp(27,2): error C2065: 'cout': undeclared identifier
+C:\Users\Juhanah\source\repos\C++ Final\C++ Final\C++ Final.cpp(29,2): error C2065: '​': undeclared identifier
+C:\Users\Juhanah\source\repos\C++ Final\C++ Final\C++ Final.cpp(30,1): error C2143: syntax error: missing ';' before '}'
